@@ -10,7 +10,8 @@ My background is in machine learning, and I hold a Ph.D. from the [Machine Learn
 
 ### Software Development
 
-List of projects I'm involved in
+List of projects I'm involved in:
 
+- [medaprep](https://github.com/makepath/medaprep)
 - [census-parquet](https://github.com/makepath/census-parquet)
 - [xarray-spatial](https://github.com/makepath/xarray-spatial)
